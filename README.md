@@ -84,5 +84,6 @@ endmodule
 **TIMING DIGRAMS FOR FLIP FLOPS**
 ![image](https://github.com/CodesWithRobi/DE-JKFLIPFLOP-USING-IF-ELSE/assets/130537166/0dfbb4d0-cd45-466c-aeea-a8ca64e20828)
 
-**RESULTS**
+**RESULT:**
+
 Implemented JK flipflop using verilog and validated their functionality using their functional tables
